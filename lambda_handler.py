@@ -1,6 +1,6 @@
 #This lambda function is triggered on the insert of Dynamodb table 'DynamoKaps'.
 #The lambda function in turn, inserts the details of the received record data in to a new Dynamodb table InductionList table.
-
+#This code is committed in github
 
 import json
 import logging
